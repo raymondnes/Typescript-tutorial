@@ -41,3 +41,8 @@
     <li> Catching Errors during development</li>
     <li> Great for teams</li>
 </ul>
+
+### Inplicit and Explicit data type inference by typescript
+   let myName = 'Raymond' (hovering the mouse around this suggests it is a string type variable) {string:} Implicit declaration
+
+   let myName: string = 'Raymond' Explicit declaration of the variable type to be a string.
