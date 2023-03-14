@@ -29,13 +29,13 @@
      let b: number = 6
      let c: number = 2 -->
 
-## 'noEmitOnError' is a tsconfig.json settings that is required if you don't want the compiler to compile when an error is observed on the typescript file. 
+### 'noEmitOnError' is a tsconfig.json settings that is required if you don't want the compiler to compile when an error is observed on the typescript file. 
 
 ## Typescript Terminologies
 
 ### Typescript is a strongly typed language. It is a statically typed language which means types are checked at compile time.
 
-## Benefits Includes
+## <em> Benefits Includes </em>
 <ul>
     <li> Self documenting </li>
     <li> Catching Errors during development</li>
