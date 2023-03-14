@@ -46,3 +46,21 @@
    let myName = 'Raymond' (hovering the mouse around this suggests it is a string type variable) {string:} Implicit declaration
 
    let myName: string = 'Raymond' Explicit declaration of the variable type to be a string.
+
+### string type data : expects strings
+### number type data : expects numbers {int, float, double}
+### boolean type data : expects true / false
+### union type data : strings | number (these are data that can either be number or strings)
+### any type data : expects any type of data amongst the earlier declared
+
+let myName: string = 'Raymond'
+let meaningOfLife: number;
+let isLoading: boolean;
+let album: any;
+
+myName = 'Noela'
+meaningOfLife = 28
+isLoading = true
+album = 1995
+
+## Functions
