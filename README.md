@@ -54,6 +54,7 @@
  any type data : expects any type of data amongst the earlier declared
  </pre>
 
+<pre>
 let myName: string = 'Raymond'
 let meaningOfLife: number;
 let isLoading: boolean;
@@ -63,5 +64,5 @@ myName = 'Noela'
 meaningOfLife = 28
 isLoading = true
 album = 1995
-
+</pre>
 ## Functions
