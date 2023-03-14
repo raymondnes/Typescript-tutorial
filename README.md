@@ -23,3 +23,11 @@
 ### let c = 2
 
 ### console.log(a / b) {Typescript is not a fan of inference, hence, it figures out that 'a of type int' being divided by 'b of type string' is against it's scripting policy, hence the signal under 'b' however, Js doesn't mind}
+
+## Better put for the compiler's peace of mind
+<!-- let a: number = 12
+     let b: number = 6
+     let c: number = 2 -->
+
+# 'noEmitOnError' is a tsconfig.json settings that is required if you don't want the compiler to compile when an error is observed on the typescript file. 
+
