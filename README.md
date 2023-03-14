@@ -32,3 +32,12 @@
 ## 'noEmitOnError' is a tsconfig.json settings that is required if you don't want the compiler to compile when an error is observed on the typescript file. 
 
 ## Typescript Terminologies
+
+### Typescript is a strongly typed language. It is a statically typed language which means types are checked at compile time.
+
+## Benefits Includes
+<ul>
+    <li> Self documenting </li>
+    <li> Catching Errors during development</li>
+    <li> Great for teams</li>
+</ul>
