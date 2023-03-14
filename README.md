@@ -15,4 +15,11 @@
   "include": [
     "src"
   ]</p>
+
 ### Now the new ts file place outside the src folder is not compiled automatically, and that is the aim.
+
+### let a = 12
+### let b = '6'
+### let c = 2
+
+### console.log(a / b) {Typescript is not a fan of inference, hence, it figures out that 'a of type int' being divided by 'b of type string' is against it's scripting policy, hence the signal under 'b' however, Js doesn't mind}
