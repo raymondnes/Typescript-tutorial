@@ -47,11 +47,11 @@
 
    let myName: string = 'Raymond' Explicit declaration of the variable type to be a string.
 
-### string type data : expects strings
-### number type data : expects numbers {int, float, double}
-### boolean type data : expects true / false
-### union type data : strings | number (these are data that can either be number or strings)
-### any type data : expects any type of data amongst the earlier declared
+ string type data : expects strings
+ number type data : expects numbers {int, float, double
+ boolean type data : expects true / false
+ union type data : strings | number (these are data that can either be number or strings)
+ any type data : expects any type of data amongst the earlier declared
 
 let myName: string = 'Raymond'
 let meaningOfLife: number;
