@@ -29,5 +29,6 @@
      let b: number = 6
      let c: number = 2 -->
 
-# 'noEmitOnError' is a tsconfig.json settings that is required if you don't want the compiler to compile when an error is observed on the typescript file. 
+## 'noEmitOnError' is a tsconfig.json settings that is required if you don't want the compiler to compile when an error is observed on the typescript file. 
 
+## Typescript Terminologies
