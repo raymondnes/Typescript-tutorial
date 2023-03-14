@@ -13,3 +13,8 @@ const sum = (a: number, b: number) =>
 {
     return a + b
 }
+
+let postId: string | number
+let isActive: number | boolean
+
+let re = /\w+/g
